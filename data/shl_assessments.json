@@ -1,0 +1,4223 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior",
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Personality & Behavior",
+      "Simulations",
+      "Knowledge & Skills",
+      "Biodata & Situational Judgement",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Biodata & Situational Judgement",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": 7,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Assessment Exercises"
+    ]
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": 30,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior",
+      "Competencies"
+    ]
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies"
+    ]
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Ability & Aptitude",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies"
+    ]
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies"
+    ]
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies"
+    ]
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Simulations",
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations",
+      "Biodata & Situational Judgement"
+    ]
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken English (US)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": 15,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Simulations"
+    ]
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Biodata & Situational Judgement",
+      "Simulations"
+    ]
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360"
+    ]
+  },
+  {
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience.",
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "test_type": [
+      "Development & 360",
+      "Personality & Behavior"
+    ]
+  }
+]
