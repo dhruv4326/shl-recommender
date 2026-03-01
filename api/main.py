@@ -279,3 +279,45 @@ async def recommend(req: RecommendRequest):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+
+
+@app.get("/debug")
+async def debug():
+    """Test each component individually to find what's failing."""
+    results = {}
+
+    # Test 1: Pinecone
+    try:
+        stats = _index.describe_index_stats()
+        results["pinecone"] = f"OK - {stats['total_vector_count']} vectors, dim={stats.get('dimension')}"
+    except Exception as e:
+        results["pinecone"] = f"FAILED: {str(e)}"
+
+    # Test 2: Gemini Embedding
+    try:
+        emb = await get_gemini_embedding("test query")
+        results["gemini_embedding"] = f"OK - dim={len(emb)}"
+    except Exception as e:
+        results["gemini_embedding"] = f"FAILED: {str(e)}"
+
+    # Test 3: Gemini Generation
+    try:
+        payload = {
+            "contents": [{"parts": [{"text": "Say hello in one word"}]}],
+            "generationConfig": {"temperature": 0.1, "maxOutputTokens": 10},
+        }
+        async with httpx.AsyncClient(timeout=30) as client:
+            resp = await client.post(
+                GEMINI_GEN_URL,
+                params={"key": GEMINI_API_KEY},
+                json=payload,
+            )
+            if resp.status_code == 200:
+                text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+                results["gemini_generation"] = f"OK - response: {text}"
+            else:
+                results["gemini_generation"] = f"FAILED: {resp.status_code} - {resp.text[:200]}"
+    except Exception as e:
+        results["gemini_generation"] = f"FAILED: {str(e)}"
+
+    return results
